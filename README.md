@@ -87,12 +87,6 @@ sentence_bleu([reference], candidate)
 
 ---
 
-## ✍️ Author
-
-**Yashraj7878** – [your.email@example.com](mailto:yashrajsain5819@gmail.com)
-
----
-
 ## 📜 License
 
 This project is under the [MIT License](LICENSE).
